@@ -28,7 +28,7 @@ const MODEL_CONFIG = {
 };
 
 const groqClient = new Groq({
-  apiKey: "Groq-Api-Key",
+  apiKey: "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",
 });
 
 const RETRY_CONFIG = {
